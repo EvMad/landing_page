@@ -23,3 +23,12 @@ body {
     justify-content: center;
     padding: 20px;
 }
+
+.feature {
+    font-weight: 400;
+    margin-top: 10px;
+    padding-top: 20px;
+    color: var(--gold);
+    text-align: center;
+    
+}
