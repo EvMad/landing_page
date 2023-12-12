@@ -2,3 +2,12 @@
     margin: 0;
     font-family: 'Josefin Sans', sans-serif;
 }
+
+:root {
+    --green: #44A65C;
+    --gold: #A68B6A;
+    --cool: #014011;
+    --warm: #8C5F4F;
+    --dark: #000000;
+    --light: #FFFFFF;
+}
