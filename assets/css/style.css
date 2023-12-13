@@ -91,3 +91,7 @@ h2 {
     margin-top: 20px;
     margin-bottom: 20px;
 }
+
+.back > a {
+    color: var(--gold);    
+}
