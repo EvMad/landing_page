@@ -43,6 +43,12 @@ body {
     
 }
 
+a {
+    text-decoration: none;
+    color: var(--dark);
+}
+
+
 .buttons {
     display: flex;
     flex-direction: column;
