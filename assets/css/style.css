@@ -42,3 +42,12 @@ body {
     padding-top: 20px;
     
 }
+
+.buttons {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: var(--dark);
+    margin-bottom: 30px;
+}
