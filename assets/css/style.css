@@ -99,3 +99,14 @@ h2 {
 .back > a {
     color: var(--gold);    
 }
+
+
+@media only screen and (max-width: 500px) {
+    .icons {
+        max-width: 70vw;
+    }
+    .topIcon {
+        padding: 10px;
+        font-size: 30px;
+    }
+}
