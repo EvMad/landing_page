@@ -113,6 +113,11 @@ li {
     margin-bottom: 5px;    
 }
 
+.link {
+    color: var(--light);
+    padding: 5px;
+}
+
 
 @media only screen and (max-width: 500px) {
     .icons {
